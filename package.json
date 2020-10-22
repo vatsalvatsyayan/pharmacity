@@ -1,0 +1,26 @@
+{
+  "name": "pharmacity",
+  "version": "1.0.0",
+  "description": "Online Pharmacy created for educational purpose",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsalvatsyayan/pharmacity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatsalvatsyayan/pharmacity/issues"
+  },
+  "homepage": "https://github.com/vatsalvatsyayan/pharmacity#readme"
+}
